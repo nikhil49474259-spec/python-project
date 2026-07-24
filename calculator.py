@@ -79,3 +79,6 @@ btn_c.grid(row=5, column=0, columnspan=4, sticky="nsew", padx=2, pady=2)
 root.mainloop()
 0
 
+print ("thanks for using")
+
+0
